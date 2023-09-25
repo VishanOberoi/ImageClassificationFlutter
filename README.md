@@ -40,7 +40,7 @@ Here are some screenshots of the application:
 
 Watch the demo video below to see the application in action:
 
-[![Demo Video](App_demo.mp4)
+[![Demo Video](App_demo.mp4)]
 
 ## Models Used
 
