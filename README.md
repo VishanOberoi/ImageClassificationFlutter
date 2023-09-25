@@ -31,16 +31,16 @@ Users can also use the RealTimeClassification feature to classify objects in liv
 Here are some screenshots of the application:
 
 ### Home Screen
-![Home Screen](link-to-your-home-screen-image)
+![Home Screen](Screenshot_20230925-120112.jpg)
 
 ### Classification Result
-![Classification Result](link-to-your-classification-result-image)
+![Classification Result](Screenshot_20230925-120103.jpg)
 
 ## Demo Video
 
 Watch the demo video below to see the application in action:
 
-[![Demo Video](link-to-your-video-thumbnail)](link-to-your-demo-video.mp4)
+[![Demo Video](App_demo.mp4)
 
 ## Models Used
 
