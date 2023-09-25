@@ -34,13 +34,13 @@ Here are some screenshots of the application:
 ![Home Screen]
 
 ### Classification Result
-![Classification Result]<img src="Screenshot_20230925-120112.jpg" width="width_in_pixels" alt="Alt text">
+![Classification Result]<img src="Screenshot_20230925-120112.jpg" width="500" alt="Alt text">
 
 ## Demo Video
 
 Watch the demo video below to see the application in action:
 
-[![Demo Video](App_demo.mp4)]
+[![Demo Video](https://cdn.discordapp.com/attachments/754057588714373325/1155766176375394335/App_demo.mp4)]
 
 ## Models Used
 
