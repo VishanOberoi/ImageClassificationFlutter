@@ -31,10 +31,10 @@ Users can also use the RealTimeClassification feature to classify objects in liv
 Here are some screenshots of the application:
 
 ### Home Screen
-![Home Screen](Screenshot_20230925-120112.jpg)
+![Home Screen]
 
 ### Classification Result
-![Classification Result](Screenshot_20230925-120103.jpg)
+![Classification Result]<img src="Screenshot_20230925-120112.jpg" width="width_in_pixels" alt="Alt text">
 
 ## Demo Video
 
