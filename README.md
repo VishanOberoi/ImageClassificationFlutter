@@ -38,9 +38,11 @@ Here are some screenshots of the application:
 
 ## Demo Video
 
-Watch the demo video below to see the application in action:
 
-[![Demo Video](https://cdn.discordapp.com/attachments/754057588714373325/1155766176375394335/App_demo.mp4)]
+https://github.com/VishanOberoi/ImageClassificationFlutter/assets/71665949/35a44dfc-3a95-4fd3-900e-5b3ee441701f
+
+
+Watch the demo video below to see the application in action:
 
 ## Models Used
 
